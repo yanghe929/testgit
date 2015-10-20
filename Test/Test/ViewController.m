@@ -10,7 +10,7 @@
 
 @interface ViewController ()
 
-- (void)sayHolle;
+- (void)sayByeBye;
 
 @end
 
@@ -26,8 +26,8 @@
     // Dispose of any resources that can be recreated.
 }
 
-- (void)sayHolle{
-    NSLog(@"Holle");
+- (void)sayByeBye{
+    NSLog(@"Bye Bye");
 }
 
 @end
